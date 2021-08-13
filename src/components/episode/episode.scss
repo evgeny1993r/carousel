@@ -1,0 +1,23 @@
+.episode {
+  border-radius: 5px;
+  border: 1px solid #c1c1c1;
+  cursor: pointer;
+
+  &__data {
+    padding: 5px;
+  }
+
+  &__title {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #2b2a30;
+    text-align: center;
+  }
+
+  &__subtitle {
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #2b2a30;
+    text-align: center;
+  }
+}
