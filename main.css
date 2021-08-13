@@ -1,0 +1,6 @@
+.loading{font-size:16px;font-family:sans-serif;color:#2b2a30}
+.character{border-radius:5px;border:1px solid #c1c1c1;cursor:pointer}.character__img{width:150px;height:150px;background-size:cover;border-radius:5px 5px 0 0}.character__data{padding:5px}.character__name{font-size:16px;font-family:sans-serif;color:#2b2a30;text-align:center}.character__birthday{font-size:13px;font-family:sans-serif;color:#2b2a30;text-align:center}
+.episode{border-radius:5px;border:1px solid #c1c1c1;cursor:pointer}.episode__data{padding:5px}.episode__title{font-size:16px;font-family:sans-serif;color:#2b2a30;text-align:center}.episode__subtitle{font-size:13px;font-family:sans-serif;color:#2b2a30;text-align:center}
+.carousel{padding:15px;display:grid;grid-template-columns:15px auto 15px;grid-column-gap:15px;box-shadow:0 0 5px #c1c1c1;border-radius:30px}.carousel__btn-left,.carousel__btn-right{border:none;background:none;cursor:pointer;font-size:24px;font-family:sans-serif;color:#2b2a30}.carousel__btn-left:hover,.carousel__btn-right:hover{background:#c1c1c1}.carousel__gallery{overflow:hidden}.carousel__item-list{display:grid;grid-auto-columns:150px;grid-auto-flow:column;grid-column-gap:15px;list-style:none}
+.app{display:grid;row-gap:15px;padding:15px}
+*{margin:0;padding:0;box-sizing:border-box}body{display:grid;justify-content:center}
